@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Cairo', sans-serif;
+}
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+.swiper {
+  height: 100%;
+}
+/* start slide one */
+.logo img {
+    height: 100vh !important;
+}
+.Freelance h2 {
+    color: #002E5B !important;
+} 
+/* end slide one  */
+
+/* start slide two  */
+.content-list ul {
+    list-style: none;
+}
+.content-list h3 {
+    color: #002E5B !important;
+}
+.content-list ul li span i {
+    color: #002E5B;
+}
+.content-img img {
+    height: 100vh;
+}
+/* end slide two  */
+
+/* start slide three  */
+.Freelance .card {
+    color: #fff !important;
+}
+.Freelance .card-one{
+    background-color: #97C4B8;
+}
+.Freelance .card-two{
+    background-color: #5089C6;
+
+}
+.Freelance .card-three{
+    background-color: #FAAD80;
+}
+.Freelance .card-four{
+    background-color: #FF6767;
+
+}
+.Freelance .card-five{
+    background-color: #A73489;
+
+}
+.Freelance .card-sex{
+    background-color: #E60965;
+}
+.Freelance .card-seven{
+    background-color: #002E5B !important;
+} 
+/* end slide three  */
+
+/* start slide five  */
+.Freelance .one-card {
+    background-color: #73777B ;
+}
+.Freelance .two-card {
+    background-color:#7CD1B8 ;
+}
+.Freelance .three-card {
+    background-color: #EC994B ;
+}
+.Freelance .four-card { 
+    background-color:#3E8E7E ;
+}
+.Freelance .five-card {
+    background-color:#002E5B !important ;
+}
+/* end slide five  */
