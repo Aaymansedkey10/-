@@ -27,10 +27,7 @@ body {
 } 
 /* end slide one  */
 
-/* start slide two  */
-.content-list ul {
-    list-style: none;
-}
+/* start slide two & four  */
 .content-list h3 {
     color: #002E5B !important;
 }
@@ -40,6 +37,12 @@ body {
 .content-img img {
     height: 100vh;
 }
+@media (max-width : 425px) {
+    .content-list ul li {
+        font-size: 14px;
+    }
+}
+
 /* end slide two  */
 
 /* start slide three  */
@@ -69,6 +72,26 @@ body {
 }
 .Freelance .card-seven{
     background-color: #002E5B !important;
+}
+@media (max-width : 426px) {
+    .Freelance .one-card {
+        margin-bottom: 17px !important;
+    }
+    .Freelance .two-card  {
+        margin-bottom: 17px !important;
+    }
+    .Freelance .three-card {
+        margin-bottom: 17px !important;
+    }
+    .Freelance .five-card {
+        margin-bottom: 17px !important;
+    }
+    .Freelance .card-sex {
+        margin-bottom: 17px !important;
+    }
+    .Freelance .card-seven {
+        margin-bottom: 17px !important;
+    }
 } 
 /* end slide three  */
 
