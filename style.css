@@ -73,6 +73,25 @@ body {
 .Freelance .card-seven{
     background-color: #002E5B !important;
 }
+
+/* end slide three  */
+
+/* start slide five  */
+.Freelance .one-card {
+    background-color: #73777B ;
+}
+.Freelance .two-card {
+    background-color:#7CD1B8 ;
+}
+.Freelance .three-card {
+    background-color: #EC994B ;
+}
+.Freelance .four-card { 
+    background-color:#3E8E7E ;
+}
+.Freelance .five-card {
+    background-color:#002E5B !important ;
+}
 @media (max-width : 426px) {
     .Freelance .one-card {
         margin-bottom: 17px !important;
@@ -93,22 +112,4 @@ body {
         margin-bottom: 17px !important;
     }
 } 
-/* end slide three  */
-
-/* start slide five  */
-.Freelance .one-card {
-    background-color: #73777B ;
-}
-.Freelance .two-card {
-    background-color:#7CD1B8 ;
-}
-.Freelance .three-card {
-    background-color: #EC994B ;
-}
-.Freelance .four-card { 
-    background-color:#3E8E7E ;
-}
-.Freelance .five-card {
-    background-color:#002E5B !important ;
-}
 /* end slide five  */
